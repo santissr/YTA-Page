@@ -17,7 +17,7 @@ export const TextAreaTag = styled.textarea<TextAreaI>`
   background: #fff;
 
   color: #000;
-  font-family: Inter;
+
   ${({ fontSize }) => (fontSize ? `font-size: ${fontSize}` : null)};
   ${({ fontWeight }) => (fontWeight ? `font-weight: ${fontWeight}` : null)};
   font-style: normal;

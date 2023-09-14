@@ -46,6 +46,7 @@ export const ContainerMain = styled.div<MainI>`
   justify-content: center;
   align-items: center;
   gap: 5.1rem;
+  margin-top: 8.5rem;
 
   width: 100%;
   height: 100%;

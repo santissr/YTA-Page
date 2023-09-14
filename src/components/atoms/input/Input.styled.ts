@@ -28,7 +28,7 @@ export const InputTag = styled.input<InputI>`
   text-align: start;
 
   padding: 1rem;
-  font-family: Inter;
+
   font-size: ${({ fontSize }) => (fontSize ? fontSize : "1.6rem")};
   font-style: normal;
   font-weight: ${({ fontWeight }) => (fontWeight ? fontWeight : "400")};

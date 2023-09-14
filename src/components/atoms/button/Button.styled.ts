@@ -30,7 +30,7 @@ export const ButtonTag = styled.button<TextI>`
 
   color: ${({ color }) => (color ? color : "#191717")};
   text-align: center;
-  font-family: Inter;
+
   font-size: 1.6rem;
   font-style: normal;
   font-weight: 400;

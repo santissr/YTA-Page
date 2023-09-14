@@ -12,7 +12,7 @@ export const SelectTag = styled.select<SelectI>`
   box-sizing: border-box;
   color: ${({ color }) => (color ? color : "#1A1717")};
   text-align: center;
-  font-family: Inter;
+
   font-size: ${({ fontSize }) => (fontSize ? fontSize : "1.6rem")};
   font-style: normal;
   font-weight: ${({ fontWeight }) => (fontWeight ? fontWeight : "400")};
